@@ -1,1 +1,2 @@
 lijn 1 bestand 1
+lijn 2 bestand 1 - toegevoegd na commit
